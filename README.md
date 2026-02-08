@@ -8,6 +8,8 @@ I believe AI doesn’t use UIs—it uses tools. As agents become first-class use
 
 Open-source AI tools
 
+bedrock-agent-blueprint (https://github.com/weijianzhg/bedrock-agent-blueprint) — Production-ready template for building AI agents with Strands Agents SDK on Amazon Bedrock AgentCore Runtime, with Terraform infrastructure
+
 youtube-summariser (https://github.com/weijianzhg/youtube-summariser) — CLI tool that summarises YouTube videos using AI
 
 paper-fluff-cutter (https://github.com/weijianzhg/paper-fluff-cutter) — CLI tool that strips academic papers down to what actually matters
