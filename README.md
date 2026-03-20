@@ -4,12 +4,6 @@ I build production AI systems, evaluation workflows, and tool-first software tha
 
 I’m **Weijian Zhang**, an **AI Engineering Manager at Marex** with a **PhD in Applied Mathematics** from the University of Manchester. My background spans numerical linear algebra, time-dependent networks, and real-world machine learning systems, including time as a visiting researcher at **MIT CSAIL**.
 
-My core belief is simple:
-
-> **AI doesn’t use UIs — it uses tools.**
-
-As agents become first-class users, robust APIs, CLI tools, and reliable evaluation loops matter more than polished interfaces alone. I’m interested in building systems that survive contact with reality: production AI, model behavior, fine-tuning workflows, and practical tools for reasoning and execution.
-
 ### What I focus on
 
 - **Production AI systems** — building LLM and ML systems that work beyond demos
@@ -30,5 +24,3 @@ As agents become first-class users, robust APIs, CLI tools, and reliable evaluat
 - Website: [weijian.ai](https://weijian.ai)
 - Writing: [notesfromzero.substack.com](https://notesfromzero.substack.com)
 - X: [@weijianzhang_](https://x.com/weijianzhang_)
-
-I’m especially interested in the future of agentic systems, model customization, evaluation, and software designed for both humans and AI.
