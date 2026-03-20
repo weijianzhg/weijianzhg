@@ -1,17 +1,34 @@
-## Hi there 👋
+## Hi there
 
-I'm an AI Engineering Manager at Marex, building production-grade machine learning and LLM systems for financial markets.
+I build production AI systems, evaluation workflows, and tool-first software that AI agents can actually use.
 
-I hold a PhD in Applied Mathematics from the University of Manchester, with research in numerical linear algebra and time-dependent networks, and spent time as a visiting researcher at MIT CSAIL.
+I’m **Weijian Zhang**, an **AI Engineering Manager at Marex** with a **PhD in Applied Mathematics** from the University of Manchester. My background spans numerical linear algebra, time-dependent networks, and real-world machine learning systems, including time as a visiting researcher at **MIT CSAIL**.
 
-I believe AI doesn't use UIs—it uses tools. As agents become first-class users, solid APIs and CLI tools matter more than bespoke web or app interfaces. I focus on building systems AI can actually operate.
+My core belief is simple:
 
-### Open-source AI tools
+> **AI doesn’t use UIs — it uses tools.**
 
-- [bedrock-agent-blueprint](https://github.com/weijianzhg/bedrock-agent-blueprint) — Production-ready template for building AI agents with Strands Agents SDK on Amazon Bedrock AgentCore Runtime, with Terraform infrastructure
-- [youtube-summariser](https://github.com/weijianzhg/youtube-summariser) — CLI tool that summarises YouTube videos using AI
-- [paper-fluff-cutter](https://github.com/weijianzhg/paper-fluff-cutter) — CLI tool that strips academic papers down to what actually matters
+As agents become first-class users, robust APIs, CLI tools, and reliable evaluation loops matter more than polished interfaces alone. I’m interested in building systems that survive contact with reality: production AI, model behavior, fine-tuning workflows, and practical tools for reasoning and execution.
 
-### Open-source blockchain
+### What I focus on
 
-- [eve-transparent-fund](https://github.com/weijianzhg/eve-transparent-fund) — A transparent micro-grants agent on Solana: every transaction tracked, every impact documented. Fully written by an AI agent, with no human-written code.
+- **Production AI systems** — building LLM and ML systems that work beyond demos
+- **Model behaviour & evaluation** — improving reliability, regression detection, and iteration speed
+- **Tool-first software** — APIs and CLI tools that humans and agents can both operate
+- **Applied experiments** — testing ideas in public and turning understanding into working systems
+
+### Featured projects
+
+- [**bedrock-agent-blueprint**](https://github.com/weijianzhg/bedrock-agent-blueprint) — production-ready template for building AI agents with Strands Agents SDK on Amazon Bedrock AgentCore Runtime, with Terraform infrastructure
+- [**autoresearch-classifier**](https://github.com/weijianzhg/autoresearch-classifier) — autonomous experiment loop for improving a classical ML classifier for prompt injection detection
+- [**paper-fluff-cutter**](https://github.com/weijianzhg/paper-fluff-cutter) — CLI tool that strips academic papers down to what actually matters
+- [**youtube-summariser**](https://github.com/weijianzhg/youtube-summariser) — CLI tool that summarizes YouTube videos using AI
+
+
+### Elsewhere
+
+- Website: [weijian.ai](https://weijian.ai)
+- Writing: [notesfromzero.substack.com](https://notesfromzero.substack.com)
+- X: [@weijianzhang_](https://x.com/weijianzhang_)
+
+I’m especially interested in the future of agentic systems, model customization, evaluation, and software designed for both humans and AI.
